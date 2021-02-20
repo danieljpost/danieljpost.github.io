@@ -1,1 +1,18 @@
-theme: jekyll-theme-cayman
+title: Daniel J. Post Consulting
+email: contact@danieljpost.pro
+description: >- # this means to ignore newlines until "baseurl:"
+  Use the source, Luke.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://danieljpost.info" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: danieljpost
+github_username:  danieljpost
+github:
+        owner_name: danieljpost
+        owner_url: https://github.com/danieljpost
+google_analytics: G-PZL3JY973E
+google_tag: G-215444062
+
+# Build settings
+theme: "minima"
+plugins:
+  - jekyll-feed
